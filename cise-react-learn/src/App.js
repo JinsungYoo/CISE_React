@@ -10,7 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
-          className="AUT-link"
+          className="App-link"
           href="https://aut.ac.nz"
           target="_blank"
           rel="noopener noreferrer"
